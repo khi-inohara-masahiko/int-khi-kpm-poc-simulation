@@ -1,0 +1,12 @@
+{
+	"name": "Vue.js",
+	"dockerComposeFile": ["./docker-compose.yml"],
+	"service": "vue" ,
+	"workspaceFolder": "/workspace",
+    "extensions": [
+        "msjsdiag.debugger-for-chrome",
+        "octref.vetur",
+        "dbaeumer.vscode-eslint",
+        "editorconfig.editorconfig"
+    ]
+}
